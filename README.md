@@ -1,2 +1,9 @@
-# BN_P5_optimisez-la-gestion-des-donnees-dune-boutique-avec-r-ou-python
-Optimisez la gestion des données d'une boutique avec Python
+# Optimisez la gestion des données d'une boutique avec Python
+
+# Livrables
+- Le notebook Jupyter.
+
+# Compétences évaluées
+- Gérer les erreurs et les incohérences présentes sur des données stockées
+- Classifier différents types de données
+- Réaliser une analyse univariée pour interpréter des données
